@@ -1,0 +1,5 @@
+{
+  "name": "DevYear - 程序员年度总结头像生成器",
+  "description": "基于您的照片和年度编程数据，利用 Gemini Nanobanana Pro 模型生成独一无二的年度总结插画头像。",
+  "requestFramePermissions": []
+}
